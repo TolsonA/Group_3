@@ -1,9 +1,8 @@
 # Group_3
 
-Pick 4 countries
+Pick 2 countries
 
-Fertility rate vs each of these
-
+Compare census & health data between them
 
 'Fertility rate, total (births per woman)',
 'GNI per capita, Atlas method (current US$)',
