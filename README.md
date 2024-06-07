@@ -45,6 +45,7 @@ o	       Provide a brief overview of the project – (Compare overall birth rate
  Health Nutrition and Population Statistics database offers essential health, nutrition, and population statistics collected from various international sources. The data covers themes such as population dynamics, nutrition, reproductive health, health financing, medical resources and usage, immunization, infectious diseases, HIV/AIDS, DALY (Disability-Adjusted Life Years), population projections, and lending. Additionally, HealthStats includes statistics on health, nutrition, and population categorized by wealth quintiles.
 
 •	Exploratory data analysis (add visualizations in this section)
+![image](https://github.com/TolsonA/Group_3/assets/161650103/916b2988-e607-45be-81ff-75f370507927)
 o	       After cleaning the data using pandas…
 o	       What was the goal?
 o	       To answer we did this…
