@@ -1,13 +1,15 @@
 
 # Canada vs. Japan
 
-# Set up
-pandas,
-matplotlib
+
 
 # Description
 
 Comparing a variety of census data between Canada and Japan
+
+# Set up
+pandas,
+matplotlib
 
 
 # Data
