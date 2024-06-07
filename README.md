@@ -19,7 +19,7 @@ All [data](https://www.kaggle.com/datasets/theworldbank/health-nutrition-and-pop
 **explain plot**
 ![image](https://github.com/TolsonA/Group_3/assets/161650103/11024dad-019a-488e-acf5-ba3c1ca3fd3d)
 
-https://github.com/TolsonA/Group_3/blob/main/images/birth_rate_vs_adolescent_birth_rate_over_time.png?raw=true![image](https://github.com/TolsonA/Group_3/assets/161650103/6bdfabbc-acce-4c74-a2d1-5aa80bb18861)
+![image](https://github.com/TolsonA/Group_3/assets/161650103/6bdfabbc-acce-4c74-a2d1-5aa80bb18861)
 
 
 **explain plot**
