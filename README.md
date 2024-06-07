@@ -42,7 +42,9 @@ To answer we did this…
 What did we find exploring the data?
 
 **Acknowledgements**
+
 [Kaggle](https://www.kaggle.com) for providing the dataset
+
 The World Bank for compiling the Health Nutrition and Population Statistics 
 
 
