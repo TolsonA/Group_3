@@ -1,5 +1,5 @@
 
-# Group 3 Project
+# Canada vs. Japan
 
 # Overview 
 pandas,
