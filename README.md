@@ -2,7 +2,7 @@
 # Group 3 Project
 
 # Overview 
-pandas
+pandas,
 matplotlib
 
 # Description
