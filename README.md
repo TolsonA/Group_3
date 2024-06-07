@@ -32,7 +32,7 @@ Compare census & health data between them
 
 population growth and then correlations
 
-Group 3 Project
+**Group 3 Project**
 
 •	Table of contents (if we want to include)
 
@@ -41,7 +41,7 @@ o	       Provide a brief overview of the project – (Compare overall birth rate
 	       Explain what the project does
 	       Why is it useful?
 	       Data (describe the data set)
-
+**Data**
  The Health Nutrition and Population Statistics database provides critical data on health, nutrition, and population metrics, gathered from a range of international sources. This comprehensive database encompasses various themes, including population dynamics, nutrition, reproductive health, health financing, medical resources and usage, immunization, infectious diseases, and HIV/AIDS. It also includes metrics such as DALY (Disability-Adjusted Life Years) and population projections. Furthermore, the database offers insights into lending practices related to health initiatives.
  
  In addition to general statistics, the Health Nutrition and Population Statistics database features detailed analyses categorized by wealth quintiles, enabling a deeper understanding of health disparities and economic influences on health outcomes. This valuable resource supports research and policy-making by providing accessible and reliable data on global health trends and issues.
