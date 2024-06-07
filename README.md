@@ -5,7 +5,7 @@
 
 # Description
 
-Comparing a variety of census data between Canada and Japan
+Comparing a variety of census data between Canada and Japan comparing brithrates, deathrates and life expectancy 
 
 # Set up
 pandas,
