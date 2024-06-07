@@ -32,3 +32,31 @@ Fertility rate vs each of these
        'Age at first marriage, female', 'Age at first marriage, male'
 
 population growth and then correlations
+
+•	Project title
+
+•	Table of contents (if we want to include)
+
+•	Description/overview of the project
+o	       Provide a brief overview of the project – (Compare overall birth rate vs death rate (Death rate, crude               (per1,000 people), Fertility rate, total (births per woman)) per country over
+	       Explain what the project does
+	       Why is it useful?
+	       Data (data set)
+	       Describe the data set
+
+•	Exploratory data analysis (add visualizations in this section)
+o	       After cleaning the data using pandas…
+o	       What was the goal?
+o	       To answer we did this…
+o	       What did we find exploring the data?
+
+•	Acknowledgements – 
+o	       [Kaggle](https://www.kaggle.com) for providing the dataset. –
+o	       The World Bank for compiling the Health Nutrition and Population Statistics. 
+o	       Contributors and collaborators who helped in the development of this project.
+•	Conclusion?
+
+
+
+
+
