@@ -19,8 +19,8 @@ All [data](https://www.kaggle.com/datasets/theworldbank/health-nutrition-and-pop
 **explain plot**
 ![image](https://github.com/TolsonA/Group_3/assets/161650103/11024dad-019a-488e-acf5-ba3c1ca3fd3d)
 
+**explain plot**
 ![image](https://github.com/TolsonA/Group_3/assets/161650103/6bdfabbc-acce-4c74-a2d1-5aa80bb18861)
-
 
 **explain plot**
 ![image](https://github.com/TolsonA/Group_3/assets/161650103/99772556-7287-42dd-8041-1f7e16acb43a)
