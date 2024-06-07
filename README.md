@@ -31,14 +31,6 @@ Canada has seen a steady decline in the adolescent birthrate
 
 
 
- After cleaning the data using pandas…
- 
- What was the goal?
-
-To answer we did this…
-
-What did we find exploring the data?
-
 **Acknowledgements**
 
 [Kaggle](https://www.kaggle.com) for providing the dataset
