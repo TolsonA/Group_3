@@ -14,7 +14,7 @@ All [data](https://www.kaggle.com/datasets/theworldbank/health-nutrition-and-pop
  In addition to general statistics, the Health Nutrition and Population Statistics database features detailed analyses categorized by wealth quintiles, enabling a deeper understanding of health disparities and economic influences on health outcomes. This valuable resource supports research and policy-making by providing accessible and reliable data on global health trends and issues.
 
 # Exploratory data analysis
-
+clearly see a decline in birthrate 
 ![image](https://github.com/TolsonA/Group_3/assets/161650103/11024dad-019a-488e-acf5-ba3c1ca3fd3d)
 
 
