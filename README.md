@@ -2,12 +2,10 @@
 # Group 3 Project
 
 
-•	Description/overview of the project
+# Description
 
-Provide a brief overview of the project – (Compare overall birth rate vs death rate (Death rate, crude (per1,000 people), Fertility rate, total (births per woman)) per country over
+Comparing a variety of census data between Canada and Japan
 
-Explain what the project does
-Why is it useful?
 
 # Data
 
