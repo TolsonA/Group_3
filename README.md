@@ -38,6 +38,11 @@ This final chart complements the previous by showing the female life expectancy 
 
 ![image](https://github.com/TolsonA/Group_3/assets/161650103/74e56632-146f-4f20-bdd1-3feb7339094e)
 
+Extra charts to explore. We ran out of time to explain in detail. 
+
+![image](https://github.com/TolsonA/Group_3/assets/170005959/3d5a1dac-befd-43b1-a345-873e8af1f7c8)
+
+
 Conclusion:
 
 Overall, as countries increase in life expectancy we see a lowering of birth rate. 
