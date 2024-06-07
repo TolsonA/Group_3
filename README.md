@@ -1,5 +1,5 @@
 
-# Canada vs. Japan: Brithrate, deathrates, and Life Expectacy
+# Canada vs. Japan: Brith rates, Death rates, and Life Expectacy
 
 
 
