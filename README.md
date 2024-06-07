@@ -1,7 +1,6 @@
 
 # Group 3 Project
 
-•	Table of contents (if we want to include)
 
 •	Description/overview of the project
 o	       Provide a brief overview of the project – (Compare overall birth rate vs death rate (Death rate, crude               (per1,000 people), Fertility rate, total (births per woman)) per country over
