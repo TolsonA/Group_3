@@ -32,7 +32,7 @@ Compare census & health data between them
 
 population growth and then correlations
 
-•	Project title
+Group 3 Project
 
 •	Table of contents (if we want to include)
 
