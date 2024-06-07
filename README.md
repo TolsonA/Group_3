@@ -20,7 +20,7 @@ All [data](https://www.kaggle.com/datasets/theworldbank/health-nutrition-and-pop
 
 # Exploratory data analysis
 
-clearly see a decline in birthrate while deathrate was similar. Japan deathrate climbs higher than thier birthrate towards the end of the timeline.
+clearly see a decline in birthrate while deathrate was similar. Japan deathrate climbs higher than thier birthrate towards the end of the timeline. 
 
 ![image](https://github.com/TolsonA/Group_3/assets/161650103/11024dad-019a-488e-acf5-ba3c1ca3fd3d)
 
