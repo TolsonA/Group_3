@@ -3,10 +3,11 @@
 
 
 •	Description/overview of the project
-o	       Provide a brief overview of the project – (Compare overall birth rate vs death rate (Death rate, crude               (per1,000 people), Fertility rate, total (births per woman)) per country over
-	       Explain what the project does
-	       Why is it useful?
-	       Data (describe the data set)
+
+Provide a brief overview of the project – (Compare overall birth rate vs death rate (Death rate, crude (per1,000 people), Fertility rate, total (births per woman)) per country over
+
+Explain what the project does
+Why is it useful?
 
 # Data
 
@@ -32,11 +33,13 @@ All [data](https://www.kaggle.com/datasets/theworldbank/health-nutrition-and-pop
 
 
 
+ After cleaning the data using pandas…
+ 
+ What was the goal?
 
-o	       After cleaning the data using pandas…
-o	       What was the goal?
-o	       To answer we did this…
-o	       What did we find exploring the data?
+To answer we did this…
+
+What did we find exploring the data?
 
 **Acknowledgements**
 [Kaggle](https://www.kaggle.com) for providing the dataset
