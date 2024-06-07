@@ -49,6 +49,9 @@ o	       Provide a brief overview of the project – (Compare overall birth rate
 
 ![image](https://github.com/TolsonA/Group_3/assets/161650103/99772556-7287-42dd-8041-1f7e16acb43a)
 
+![image](https://github.com/TolsonA/Group_3/assets/161650103/831730a0-6caf-4de3-8c99-7853b8106df9)
+
+
 
 o	       After cleaning the data using pandas…
 o	       What was the goal?
