@@ -1,7 +1,7 @@
 
 # Canada vs. Japan
 
-# Overview 
+# Set up
 pandas,
 matplotlib
 
